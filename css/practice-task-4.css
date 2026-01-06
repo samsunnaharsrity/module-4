@@ -1,0 +1,27 @@
+#card-section .card-info{
+    border: 1px solid black;
+}
+.team{
+    font-weight: bolder;
+    font-size: 50px;
+    text-align: center;
+}
+#card-section{
+    display: flex;
+    gap: 30px;
+    margin: 0 374px;
+}
+.card-info{
+    padding: 30px;
+}
+.card-details{
+    height: 300px;
+    width: 500px;
+}
+.card-info img{
+    height: 250px;
+    width: 250px;
+    border-radius: 100%;
+    margin-left: 116px;
+    margin-top: 20px;
+}

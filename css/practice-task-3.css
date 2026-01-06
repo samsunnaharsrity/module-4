@@ -1,0 +1,17 @@
+
+.table-body td{
+    border: 1px solid black;
+    padding: 0 10px;
+}
+.table-head td{
+    border: 1px solid black;
+    font-weight:bold ;
+    padding: 0 10px;
+}
+.table-para{
+    margin-left: 30px;
+    margin-bottom: 0px;
+}
+table{
+    margin:0 20px;
+}
